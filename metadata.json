@@ -1,0 +1,8 @@
+{
+  "name": "JobsHub",
+  "description": "Nền tảng kết nối sinh viên với các cơ hội việc làm phù hợp theo kỹ năng và nhu cầu cá nhân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
